@@ -22,8 +22,7 @@ The web scraping process involves visiting job listing websites, collecting the 
 - [JavaScript] - Programming language for client-side.
 
 
-And of course my application is open source with a [public repository][dill]
- on GitHub.
+
 
 ## Installation
 
